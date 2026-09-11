@@ -3,7 +3,21 @@
 > 홍익대학교 자율주행차 동아리 Stier  
 > 자율주행 모빌리티 경진대회에 출전한 ROS 소프트웨어
 >
-> 이 저장소는 [Team-Stier/JEJU-ROS-autonomous-vehicle](https://github.com/Team-Stier/JEJU-ROS-autonomous-vehicle)를 기반으로 한 **suhyeon01004-hongik**의 개인 작업용 Fork입니다.
+> 이 저장소는 [Team-Stier/JEJU-ROS-autonomous-vehicle](https://github.com/Team-Stier/JEJU-ROS-autonomous-vehicle)를 기반으로 한 **suhyeon-01004**의 개인 작업용 Fork입니다.
+
+## 나의 역할
+
+- **소속/역할:** Team STIER 회장, 전체 시스템 구조 정리와 GPS 관련 기능 담당
+- **직접 수행:** GNSS 데이터 수신 및 상태 확인, 위치 정보가 경로·판단·제어 노드로 전달되는 인터페이스 구성
+- **공동 참여:** 센서 인지 파트 개발과 LiDAR Voxel 클러스터링 결과 분석
+- **대회 후 정리:** 주행 중 저장한 데이터와 코드를 다시 확인해 군집화 실패 조건과 노드 간 연결 문제를 정리
+- **사용 기술:** ROS1, Python, C++, GNSS, LiDAR, RViz
+
+이 저장소는 팀 프로젝트를 바탕으로 한 Fork입니다. 위 항목은 제가 직접 맡거나 공동으로 참여한 범위이며, 저장소 전체 기능을 혼자 개발한 것은 아닙니다.
+
+### 동아리 참가팀 수상 자료
+
+아래 상장은 동아리 내 다른 참가팀의 수상 자료이며, 제 개인 수상 경력에는 포함하지 않습니다.
 
 
 |![제주도 대회 혁신상](/assets/제주도대회%20상장(드래그함).png)|![제주도 대회 장려상](/assets/제주도대회%20상장(드래그함)%202.png)|
